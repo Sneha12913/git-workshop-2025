@@ -4,7 +4,7 @@
 <ul>
   <li> Name:Sneha </li>
   <li> Roll Number: 160124733281 </li>
-  <li> Branch:CSE </li>
+  <li> Branch:CSE -05 </li>
 </ul>
 </details>
 <details>
